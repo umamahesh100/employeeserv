@@ -32,6 +32,3 @@ We would like you to enhance the existing project and see you complete the follo
 - Response codes are as per rest guidelines.
 - Error handling in case of failures.
 - Idempotency logic is implemented to avoid duplicate resource creation.
-
-## Assignment submission
-
